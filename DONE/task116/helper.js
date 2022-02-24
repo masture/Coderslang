@@ -1,0 +1,1 @@
+export const strings = ["Sophie", "Dora", "Amber", "Bell", "Lucky"];
